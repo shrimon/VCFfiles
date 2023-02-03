@@ -1,0 +1,16 @@
+[
+    {
+        "name1":"genome_7208.vcf",
+        "name2":"genome_8233.vcf",
+        "name3":"genome_9968.vcf"
+    },
+
+    {
+        "chromosome1":"22960",
+        "chromosome2":"72",
+        "chromosome3":"1100",
+        "chromosome4":"26260",
+        "chromosome5":"70"
+    }
+]
+
